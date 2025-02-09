@@ -12,15 +12,15 @@ redirect_from:
 Education
 ======
 * The University of Texas at Arlington, TX, USA
-  *_Master of Science – Information Systems, May 2025_
+  * _Master of Science – Information Systems, May 2025_
 * West Bengal University of Technology, WB, IND
-  *_Bachelor of Technology – Computer Science and Engineering, August 2018_
+  * _Bachelor of Technology – Computer Science and Engineering, August 2018_
 
 Work experience
 ======
 * Graduate Student Assistant, UT Arlington
   * _February 2024 - Present_       
-    * Duties Include:
+    * Duties include:
       * Administrative Support
       * Communication Management
       * Team Management
@@ -29,7 +29,7 @@ Work experience
 
 * Analyst, Goldman Sachs Pvt.Ltd(Consumer and Wealth Management)
   * _August 2022 - August 2023_
-    * Duties Include:
+    * Duties included:
       * Fraud Risk Management
       * QA interactions
       * Provided training
@@ -37,7 +37,7 @@ Work experience
 
 * Data Quality Analyst, Amazon Development Center(Last Mile Analysis and Quality)
   * _August 2022 - August 2023_
-    * Duties Include:
+    * Duties included:
       * Process improvement
       * Point of Contact
       * Automated daily reports 
