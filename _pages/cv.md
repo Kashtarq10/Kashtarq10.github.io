@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* The University of Texas at Arlington Arlington, TX, USA
-  _Master of Science – Information Systems_
-* West Bengal University of Technology Kolkata, WB, IND
-  _Bachelor of Technology – Computer Science and Engineering_
+* The University of Texas at Arlington, TX, USA
+  *_Master of Science – Information Systems, May 2025_
+* West Bengal University of Technology, WB, IND
+  *_Bachelor of Technology – Computer Science and Engineering, August 2018_
 
 Work experience
 ======
