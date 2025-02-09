@@ -20,7 +20,7 @@ Work experience
 ======
 * Graduate Student Assistant, UT Arlington
   * _February 2024 - Present_       
-    * Duties includes:
+    * Duties Include:
       * Administrative Support
       * Communication Management
       * Team Management
@@ -29,7 +29,7 @@ Work experience
 
 * Analyst, Goldman Sachs Pvt.Ltd(Consumer and Wealth Management)
   * _August 2022 - August 2023_
-    * Duties included:
+    * Duties Include:
       * Fraud Risk Management
       * QA interactions
       * Provided training
@@ -37,7 +37,7 @@ Work experience
 
 * Data Quality Analyst, Amazon Development Center(Last Mile Analysis and Quality)
   * _August 2022 - August 2023_
-    * Duties included:
+    * Duties Include:
       * Process improvement
       * Point of Contact
       * Automated daily reports 
