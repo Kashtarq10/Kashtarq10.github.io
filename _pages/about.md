@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 --- 
-🚀 * _Data Enthusiast, Process Improvement, Certified Business Analyst_ *
+🚀 *_Data Enthusiast, Process Improvement, Certified Business Analyst_*
 
 🔹 Master’s in Information Systems @ UTA
   
