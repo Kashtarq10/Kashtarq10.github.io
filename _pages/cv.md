@@ -35,7 +35,7 @@ Work experience
       * Provided training
       * Team Performance Analysis
 
-*Data Quality Analyst, Amazon Development Center(Last Mile Analysis and Quality)
+* Data Quality Analyst, Amazon Development Center(Last Mile Analysis and Quality)
   * _August 2022 - August 2023_
     * Duties included:
       * Process improvement
