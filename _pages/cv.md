@@ -45,10 +45,10 @@ Work experience
         
 Skills
 ======
-* *Programming Languages:* _Python(Library:Matplotlib,Panda,Numpy),SQL_
-* *Data Visualization:* _Tableau, Visio,Power BI_
-* *Data Warehouse:* _Amazon Redshift, Microsoft access_
-* *Tools:* _SAS,SAP,Google Analytics,Microsoft Excel(Vlookup,Pivot table,VBA, Macros),JIRA_
-* *Technical Skills:* _Root Cause Analysis,Problem-Solving,Business Modeling,Dashboard Reporting_
-* *Skills:* _Effective Communication,CRM,Team Collaboration,Stakeholder Management,Documentation_
+* *Programming Languages* : Python(Library:Matplotlib,Panda,Numpy),SQL
+* *Data Visualization* : Tableau, Visio,Power BI
+* *Data Warehouse* : Amazon Redshift, Microsoft access
+* *Tools* : SAS,SAP,Google Analytics,Microsoft Excel(Vlookup,Pivot table,VBA, Macros),JIRA
+* *Technical Skills* : Root Cause Analysis,Problem-Solving,Business Modeling,Dashboard Reporting
+* *Skills* : Effective Communication,CRM,Team Collaboration,Stakeholder Management,Documentation
 
