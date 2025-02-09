@@ -12,7 +12,7 @@ redirect_from:
   
 🔹 5+ years of experience at Amazon & Goldman Sachs in Data Quality analysis
  
-🔹 Passionate about Data-Driven Decision-Making, Business Analysis and Process Optimization
+🔹 Passionate about Data-Driven Decision-Making,Business Analysis and Process Optimization
 
 🔹 Skilled in Python, SQL, Excel, Tableau and Power BI
 
