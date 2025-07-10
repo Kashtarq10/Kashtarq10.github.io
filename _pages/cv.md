@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 * Graduate Student Assistant, UT Arlington
-  * _February 2024 - Present_       
+  * _February 2024 - May 2025       
     * Duties include:
       * Administrative Support
       * Communication Management
@@ -36,12 +36,21 @@ Work experience
       * Team Performance Analysis
 
 * Data Quality Analyst, Amazon Development Center(Last Mile Analysis and Quality)
-  * _August 2022 - August 2023_
+  * _August 2020 - August 2022_
     * Duties included:
       * Process improvement
       * Point of Contact
       * Automated daily reports 
       * Pilot test planning
+     
+  * Quality Analyst, Amazon Development Center(Last Mile Analysis and Quality)
+    * _August 2018 - August 2020_
+      * Duties included:
+        * Key Performance Indicators
+        * Defect metrics 
+        * Standard operating procedur 
+        * Business analysis
+          
         
 Skills
 ======
