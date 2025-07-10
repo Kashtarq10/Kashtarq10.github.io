@@ -43,13 +43,13 @@ Work experience
       * Automated daily reports 
       * Pilot test planning
      
-  * Quality Analyst, Amazon Development Center(Last Mile Analysis and Quality)
-    * _August 2018 - August 2020_
-      * Duties included:
-        * Key Performance Indicators
-        * Defect metrics 
-        * Standard operating procedur 
-        * Business analysis
+* Quality Analyst, Amazon Development Center(Last Mile Analysis and Quality)
+  * _August 2018 - August 2020_
+    * Duties included:
+      * Key Performance Indicators
+      * Defect metrics 
+      * Standard operating procedur 
+      * Business analysis
           
         
 Skills
