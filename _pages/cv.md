@@ -27,7 +27,7 @@ Work experience
       * Record Keeping
       * Requirment Gathering
 
-* Analyst, Goldman Sachs Pvt.Ltd(Consumer and Wealth Management)
+* Analyst, Goldman Sachs Pvt.Ltd(Platform Solution -Consumer and Wealth Management)
   * _August 2022 - August 2023_
     * Duties included:
       * Fraud Risk Management
