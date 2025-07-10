@@ -19,7 +19,7 @@ Education
 Work experience
 ======
 * Graduate Student Assistant, UT Arlington
-  * _February 2024 - May 2025       
+  * _February 2024 - May 2025_       
     * Duties include:
       * Administrative Support
       * Communication Management
